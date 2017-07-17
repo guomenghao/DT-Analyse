@@ -13,7 +13,7 @@ import com.tydic.web.sys.service.UserService;
 
 /**
  * 
- * @author wujian
+ * @author guomenghao
  *
  */
 @Controller
